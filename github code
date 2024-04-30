@@ -1,0 +1,4 @@
+git init
+git add '.\github task-1.html'
+git add .
+git commit -m "Initial commit"
